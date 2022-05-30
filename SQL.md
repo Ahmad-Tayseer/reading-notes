@@ -1,4 +1,3 @@
-[README](README.md)
 
 SQL Practice:
 
@@ -144,3 +143,4 @@ Exercise 18:
 
 ![](./SQL_screenshots/Screenshot_12.png)
 
+[README](README.md)
