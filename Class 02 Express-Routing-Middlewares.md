@@ -120,6 +120,15 @@
         app.get(/.*fly$/, (req, res) => {
         res.send('/.*fly$/')
         })
+
+***
+
+**Response methods**
+
+    The methods on the response object (res) in the following table can send a response to the client, and terminate the request-response cycle. If none of these methods are called from a route handler, the client request will be left hanging.
+
+![](./Class-02%20images/Screenshot_38.png)
+
 ***
 
 [README](README.md)
