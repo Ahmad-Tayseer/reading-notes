@@ -153,7 +153,7 @@
 
     This cheat sheet is intended to be a quick reminder for the main concepts involved in using the command line and assumes the user is already understand their usage. 
 
-    [Cheat Sheet link page](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)
+[Cheat Sheet link page](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)
 
 ***
 
