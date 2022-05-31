@@ -5,3 +5,5 @@
 [Class 01 - TDD:](./Class%2001%20-%20TDD.md)
 
 [Class 02 Express-Routing-Middlewares:](./Class%2002%20Express-Routing-Middlewares.md)
+
+[The Command Line:](./The%20Command%20Line.md)
