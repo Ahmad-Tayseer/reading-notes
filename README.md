@@ -11,3 +11,5 @@
 [Typing Pracitce:](./Typing%20Practice.md)
 
 [GIT Pracitce:](./GIT%20Practice.md)
+
+[Implementation: Linked Lists:](./Implementation%3A%20Linked%20Lists.md)
