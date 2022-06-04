@@ -13,3 +13,5 @@
 [GIT Pracitce:](./GIT%20Practice.md)
 
 [Implementation: Linked Lists:](./Implementation%3A%20Linked%20Lists.md)
+
+[Class 03 sequelize:](./Class%2003%20sequelize.md)
