@@ -19,3 +19,5 @@
 [Class 04 sequelize-normalization:](./Class%2004%20sequelize-normalization.md)
 
 [Class 06 Authentication:](./Class%2006%20Authentication.md)
+
+[Class 07 Bearer Authorization:](./Class%2007%20Reading%3A%20Bearer%20Authorization.md)
