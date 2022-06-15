@@ -21,3 +21,5 @@
 [Class 06 Authentication:](./Class%2006%20Authentication.md)
 
 [Class 07 Bearer Authorization:](./Class%2007%20Reading%3A%20Bearer%20Authorization.md)
+
+[Class 08 Access Control (ACL):](./Class%2008%20Reading%3A%20Access%20Control%20(ACL).md)
