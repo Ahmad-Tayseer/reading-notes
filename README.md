@@ -25,3 +25,5 @@
 [Class 08 Access Control (ACL):](./Class%2008%20Reading%3A%20Access%20Control%20(ACL).md)
 
 [Class 09 Stacks and Queues:](./Class%2009%20Stacks%20and%20Queues.md)
+
+[Class 11 Event-Driven Programming:](./Class%2011%20Event-Driven%20Programming.md)
