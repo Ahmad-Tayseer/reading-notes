@@ -27,3 +27,5 @@
 [Class 09 Stacks and Queues:](./Class%2009%20Stacks%20and%20Queues.md)
 
 [Class 11 Event-Driven Programming:](./Class%2011%20Event-Driven%20Programming.md)
+
+[Class 12 Socket.io:](./Class%2012%20Socket.io.md)
