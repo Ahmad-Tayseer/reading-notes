@@ -29,3 +29,5 @@
 [Class 11 Event-Driven Programming:](./Class%2011%20Event-Driven%20Programming.md)
 
 [Class 12 Socket.io:](./Class%2012%20Socket.io.md)
+
+[Class 13 Message Queues:](./Class%2013%20Message%20Queues.md)
