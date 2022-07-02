@@ -31,3 +31,6 @@
 [Class 12 Socket.io:](./Class%2012%20Socket.io.md)
 
 [Class 13 Message Queues:](./Class%2013%20Message%20Queues.md)
+
+[Class 15 Trees:](./Class15%20Trees.md)
+
