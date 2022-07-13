@@ -1,4 +1,4 @@
-# ***Read: Class 16 - AWS: S3 and Lambda***
+# ***Read: Class 17 - AWS: S3 and Lambda***
 
 ***
 
