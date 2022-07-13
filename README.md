@@ -34,4 +34,8 @@
 
 [Class 15 Trees:](./Class15%20Trees.md)
 
-[Class 16 AWS:](./Class%2016%20AWS%3A%20Cloud%20Servers.md)
+[Class 16 AWS: Cloud Servers](./Class%2016%20AWS%3A%20Cloud%20Servers.md)
+
+[Class 17 AWS: S3 and Lambda](./Class%2017%20AWS%3A%20S3%20and%20Lambda.md)
+
+[Class 18 AWS: Events](./Class%2018%20AWS%3A%20Events.md)
