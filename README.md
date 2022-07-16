@@ -39,3 +39,5 @@
 [Class 17 AWS: S3 and Lambda](./Class%2017%20AWS%3A%20S3%20and%20Lambda.md)
 
 [Class 18 AWS: Events](./Class%2018%20AWS%3A%20Events.md)
+
+[Class 19 AWS: API, Dynamo and Lambda](./Class%2019%20AWS%3A%20API%2C%20Dynamo%20and%20Lambda.md)
