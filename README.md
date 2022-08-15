@@ -47,3 +47,5 @@
 [Class 27 - useState() Hook](./Class%2027%20Reading%3A%20useState()%20Hook.md)
 
 [Class 28 - Component Lifecycle / useEffect Hook](./Class%2028%20Reading%3A%20Component%20Lifecycle.md)
+
+[Class 29 - Advanced State with Reducers](./Class%2029%20Reading%3A%20Advanced%20State%20with%20Reducers.md)
