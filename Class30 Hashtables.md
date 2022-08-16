@@ -1,4 +1,4 @@
-# ***Read: Class 15 - Trees***
+# ***Read: Class 30 - Hashtables***
 
 ***
 
