@@ -51,3 +51,5 @@
 [Class 29 - Advanced State with Reducers](./Class%2029%20Reading%3A%20Advanced%20State%20with%20Reducers.md)
 
 [Class 30 - Hashtables](./Class30%20Hashtables.md)
+
+[Class 31 - Context API](./Class31%20Context%20API.md)
