@@ -53,3 +53,5 @@
 [Class 30 - Hashtables](./Class30%20Hashtables.md)
 
 [Class 31 - Context API](./Class31%20Context%20API.md)
+
+[Class 32 - Context API - Behaviors](./Class32%20Context%20API%20-%20Behaviors.md)
