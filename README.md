@@ -55,3 +55,7 @@
 [Class 31 - Context API](./Class31%20Context%20API.md)
 
 [Class 32 - Context API - Behaviors](./Class32%20Context%20API%20-%20Behaviors.md)
+
+[Class 33 - Login and Auth](./Class33%20Login%20and%20Auth.md)
+
+[Class 34 - API Integration](./Class34%20API%20Integration.md)

@@ -14,7 +14,7 @@ Our context provider is now responsible for both displaying the local state of t
 
 ## **With regard to the React Context API, how would we implement a “consumer” role?**
 
-The other half of the puzzle is we now need a consumer for this provider. 
+The other half of the puzzle is we now need a consumer for this provider.
 
     import { useContext } from 'react'
 
