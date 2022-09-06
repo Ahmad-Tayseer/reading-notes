@@ -59,3 +59,5 @@
 [Class 33 - Login and Auth](./Class33%20Login%20and%20Auth.md)
 
 [Class 34 - API Integration](./Class34%20API%20Integration.md)
+
+[Class 37 - Redux - Combined Reducers](./Class37%20Readings%3A%20Redux%20-%20Combined%20Reducers.md)
