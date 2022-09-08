@@ -61,3 +61,5 @@
 [Class 34 - API Integration](./Class34%20API%20Integration.md)
 
 [Class 37 - Redux - Combined Reducers](./Class37%20Readings%3A%20Redux%20-%20Combined%20Reducers.md)
+
+[Class 38 - Redux - Asynchronous Actions](./Class38%20Readings%3A%20Redux%20-%20Asynchronous%20Actions.md)
