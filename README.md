@@ -63,3 +63,5 @@
 [Class 37 - Redux - Combined Reducers](./Class37%20Readings%3A%20Redux%20-%20Combined%20Reducers.md)
 
 [Class 38 - Redux - Asynchronous Actions](./Class38%20Readings%3A%20Redux%20-%20Asynchronous%20Actions.md)
+
+[Class 39 - Redux - Additional Topics](./Class39%20Readings%3A%20Redux%20-%20Additional%20Topics.md)
